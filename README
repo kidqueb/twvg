@@ -1,0 +1,15 @@
+# `twvg` Tailwind Variant Group
+
+Adds runtime (opt-in static replacement) grouping of tailwind classes.
+
+## Installation
+
+```
+$ npm i twvg
+```
+
+## Usage
+
+```
+twvg("hover", "underline text-blue-500")
+```
