@@ -10,7 +10,7 @@ $ npm i twvg
 
 ## Usage
 
-```
+```ts
 import { twvg } from 'twvg'
 
 twvg("hover", "underline text-blue-500") // hover:underline hover:text-blue-500
@@ -22,7 +22,7 @@ During builds we can replace `twvg` calls with the resulting string as long as t
 
 Currently only a vite plugin is done.
 
-```
+```ts
 import { defineConfig } from 'vite';
 import twvgPlugin from 'twvg/vite';
 
