@@ -1,4 +1,4 @@
-# `twvg` Tailwind Variant Group
+# `twvg` - Tailwind Variant Group
 
 Adds runtime (opt-in static replacement) grouping of tailwind classes.
 
